@@ -20,10 +20,10 @@ public class HrConfigServerApplication /*implements CommandLineRunner*/{
 		SpringApplication.run(HrConfigServerApplication.class, args);
 	}
 
-	@Override
+	/*@Override
 	public void run(String... args) throws Exception {
-		/*System.out.println("USERNAME = " + username);	
-		System.out.println("PASSWORD = " + password);	*/
-	}
+		System.out.println("USERNAME = " + username);	
+		System.out.println("PASSWORD = " + password);	
+	}*/
 
 }
