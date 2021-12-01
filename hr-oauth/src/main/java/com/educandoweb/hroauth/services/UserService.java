@@ -11,8 +11,6 @@ import org.springframework.stereotype.Service;
 import com.educandoweb.hroauth.entites.User;
 import com.educandoweb.hroauth.feignclients.UserFeignClient;
 
-
-
 @Service
 public class UserService implements UserDetailsService{
 
